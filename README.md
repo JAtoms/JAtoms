@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello World 👋
 
-<!--
-**JAtoms/JAtoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">I'm Joshua, a software developer with over 5 years of working experience.</h2> <br>
+Building highly performant applications and interfaces are my thing. <br>
+In play badminton in my free time, and I love Raggae and clasical music 😊 <br>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently applying Machine Learning techniques in developing models for Optical Acostics. Basically, my model will be able to detect disturbances in optical fibre, thereby providing security to underground optical fiber networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 My current stack includes:
+
+**Dart**, **Flutter**, **Kotlin**, etc - Mobile Development <br>
+**React Native**, **NextJs**, **Tailwind**, **Bootstrap**, **Redux**, etc. - Frontend development. <br>
+**NodeJs**, **Django**, **PostGres**, **Flask**, etc - Backend Development <br>
+**Solidity**, **Ethersjs**, **Web3Js**, **Hardhat**, etc. - Blockchain/Web3 Development <br>
