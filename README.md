@@ -1,5 +1,3 @@
----
-
 ### Hello World 👋
 
 <h2 align="left">I'm Joshua, a software developer with over 5 years of experience.</h2>
