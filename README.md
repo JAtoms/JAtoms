@@ -1,14 +1,16 @@
+---
+
 ### Hello World 👋
 
-<h2 align="left">I'm Joshua, a software developer with over 5 years of working experience.</h2> <br>
-Building highly performant applications and interfaces are my thing. <br>
-I play badminton in my free time, and I love Raggae and clasical music 😊 <br><br>
+<h2 align="left">I'm Joshua, a software developer with over 5 years of experience.</h2>
 
-- 🔭 I’m currently applying Machine Learning techniques in developing models for Optical Sensing in State of Polarization. Basically, my model will be able to detect anomalies in optical fibre, thereby providing security to underground optical fiber networks.
+I enjoy building fast, reliable, and elegant applications across mobile, web, backend, and ML-driven systems.
+When I’m not coding, you’ll probably find me on a badminton court or listening to reggae and classical music. 😊
 
-### 📚 My current stack includes:
+---
 
-**Dart**, **Flutter**, **Kotlin**, etc - Mobile Development <br>
-**React Native**, **NextJs**, **Tailwind**, **Bootstrap**, **Redux**, etc. - Frontend development. <br>
-**NodeJs**, **Django**, **PostGres**, **Flask**, etc - Backend Development <br>
-**Solidity**, **Ethersjs**, **Web3Js**, **Hardhat**, etc. - Blockchain/Web3 Development <br>
+### 🔭 What I’m Working On
+
+I’m currently applying machine learning to optical-fiber security by developing models that analyze the State of Polarization (SoP) in fiber-optic networks.
+By learning the natural polarization dynamics of the fiber, my models identify subtle irregularities that signal disturbances, tampering, or emerging physical degradation—providing real-time anomaly detection for underground optical-fiber infrastructure.
+
